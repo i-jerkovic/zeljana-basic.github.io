@@ -1,132 +1,20 @@
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="robots" content="noindex,nofollow">
+BEGIN:VCARD
+VERSION:3.0
 
-<title>Željana Bašić</title>
+FN:Željana Bašić
+N:Bašić;Željana;;;
 
-<style>
-*{
-    box-sizing:border-box;
-}
+ORG:Faculty of Forensic Sciences
+TITLE:Full Professor
 
-body{
-    margin:0;
-    min-height:100vh;
-    display:flex;
-    justify-content:center;
-    align-items:center;
-    background:#111;
-    color:white;
-    font-family:Arial,Helvetica,sans-serif;
-}
+TEL;TYPE=CELL:+38598679458
+TEL;TYPE=WORK,VOICE:+19453490420
 
-.card{
-    width:92%;
-    max-width:450px;
-    background:#1a1a1a;
-    border:1px solid #c9a227;
-    border-radius:18px;
-    padding:32px 24px;
-    text-align:center;
-    box-shadow:0 0 25px rgba(201,162,39,.25);
-}
+EMAIL;TYPE=WORK:zbasic@forenzika.unist.hr
 
-h1{
-    margin:0;
-    font-size:30px;
-}
+URL:https://scholar.google.com/citations?hl=hr&user=TdXcytUAAAAJ&view_op=list_works&sortby=pubdate
+URL:https://www.researchgate.net/profile/Zeljana-Basic
 
-.subtitle{
-    margin-top:10px;
-    margin-bottom:28px;
-    color:#ccc;
-    line-height:1.5;
-}
+NOTE:Faculty of Forensic Sciences, University of Split
 
-.button{
-    display:block;
-    width:100%;
-    padding:14px 16px;
-    margin:12px 0;
-    border-radius:10px;
-    text-decoration:none;
-    font-weight:bold;
-}
-
-.primary{
-    background:#c9a227;
-    color:#111;
-}
-
-.secondary{
-    background:transparent;
-    color:white;
-    border:1px solid #c9a227;
-}
-
-.button:hover{
-    transform:translateY(-2px);
-}
-
-.footer{
-    margin-top:25px;
-    color:#999;
-    font-size:13px;
-}
-</style>
-</head>
-
-<body>
-
-<div class="card">
-
-<h1>Željana Bašić</h1>
-
-<div class="subtitle">
-Faculty of Forensic Sciences<br>
-University of Split
-</div>
-
-<a class="button primary"
-href="https://zeljana-basic.github.io/zeljana-basic.vcf">
-📇 Save Contact
-</a>
-
-<a class="button secondary"
-href="tel:+38598679458">
-📞 Croatia Mobile
-</a>
-
-<a class="button secondary"
-href="tel:+19453490420">
-🇺🇸 US Mobile
-</a>
-
-<a class="button secondary"
-href="mailto:zbasic@forenzika.unist.hr">
-🏛 Official Email
-</a>
-
-<a class="button secondary"
-target="_blank"
-href="https://scholar.google.com/citations?hl=hr&user=TdXcytUAAAAJ&view_op=list_works&sortby=pubdate">
-🎓 Google Scholar
-</a>
-
-<a class="button secondary"
-target="_blank"
-href="https://www.researchgate.net/profile/Zeljana-Basic">
-🔬 ResearchGate
-</a>
-
-<div class="footer">
-Scan • Save • Contact
-</div>
-
-</div>
-
-</body>
-</html>
+END:VCARD
